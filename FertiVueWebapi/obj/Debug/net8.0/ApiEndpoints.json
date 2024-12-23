@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "FertiVueWebapi.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FertiVueWebapi.Controllers.UserController",
+    "Method": "SaveUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "FertiVueWebapi.Models.AddUserDetailsdto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

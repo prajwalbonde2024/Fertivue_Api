@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\React Projects\\FertiVueWebapi\\FertiVueWebapi\\FertiVueWebapi\\wwwroot\\Logo\\fertivuelogo-06.png",
+      "PackagePath": "staticwebassets\\Logo\\fertivuelogo-06.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.FertiVueWebapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.FertiVueWebapi.props",
+      "PackagePath": "build\\FertiVueWebapi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FertiVueWebapi.props",
+      "PackagePath": "buildMultiTargeting\\FertiVueWebapi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.FertiVueWebapi.props",
+      "PackagePath": "buildTransitive\\FertiVueWebapi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

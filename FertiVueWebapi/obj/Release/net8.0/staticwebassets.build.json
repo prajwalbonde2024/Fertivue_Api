@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ZEv2KXfq76uQXPbUbRrs6hjtj+B+7x8DcbjzpikITis=",
+  "Source": "FertiVueWebapi",
+  "BasePath": "_content/FertiVueWebapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FertiVueWebapi\\wwwroot",
+      "Source": "FertiVueWebapi",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\React Projects\\FertiVueWebapi\\FertiVueWebapi\\FertiVueWebapi\\wwwroot\\",
+      "BasePath": "_content/FertiVueWebapi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\React Projects\\FertiVueWebapi\\FertiVueWebapi\\FertiVueWebapi\\wwwroot\\Logo\\fertivuelogo-06.png",
+      "SourceId": "FertiVueWebapi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\React Projects\\FertiVueWebapi\\FertiVueWebapi\\FertiVueWebapi\\wwwroot\\",
+      "BasePath": "_content/FertiVueWebapi",
+      "RelativePath": "Logo/fertivuelogo-06.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Logo\\fertivuelogo-06.png"
+    }
+  ]
+}
